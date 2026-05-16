@@ -1,0 +1,21 @@
+cd C:\megan_kid
+
+# Copie estes arquivos extraídos do ZIP para dentro do repositório local:
+# C:\megan_kid\megan-kids-coloring-catalog
+
+copy C:\megan_kid\megan_kids_catalogo_online_pngs_iniciais\github_pages\catalog.json C:\megan_kid\megan-kids-coloring-catalog\catalog.json -Force
+
+mkdir C:\megan_kid\megan-kids-coloring-catalog\coloring\animals -Force
+mkdir C:\megan_kid\megan-kids-coloring-catalog\coloring\vehicles -Force
+
+copy C:\megan_kid\megan_kids_catalogo_online_pngs_iniciais\github_pages\coloring\animals\panda_fofo.png C:\megan_kid\megan-kids-coloring-catalog\coloring\animals\panda_fofo.png -Force
+copy C:\megan_kid\megan_kids_catalogo_online_pngs_iniciais\github_pages\coloring\vehicles\carrinho_fofo.png C:\megan_kid\megan-kids-coloring-catalog\coloring\vehicles\carrinho_fofo.png -Force
+
+cd C:\megan_kid\megan-kids-coloring-catalog
+
+git status
+git add .
+git commit -m "adicionar pngs iniciais do catalogo online"
+git push
+
+explorer C:\megan_kid\megan-kids-coloring-catalog

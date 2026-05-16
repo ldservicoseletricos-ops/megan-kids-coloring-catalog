@@ -1,0 +1,37 @@
+{
+  "version": "1.0.1",
+  "app": "Megan Kids Aprender",
+  "description": "Catalogo seguro de desenhos aprovados para colorir.",
+  "items": [
+    {
+      "id": "online_animal_panda_001",
+      "title": "Panda Fofo",
+      "category": "animals",
+      "difficulty": "easy",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/coloring/animals/panda_fofo.png",
+      "ageRange": "3+",
+      "license": "owned",
+      "tags": [
+        "panda",
+        "animal",
+        "fofo",
+        "online"
+      ]
+    },
+    {
+      "id": "online_vehicle_car_001",
+      "title": "Carrinho Fofo",
+      "category": "vehicles",
+      "difficulty": "easy",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/coloring/vehicles/carrinho_fofo.png",
+      "ageRange": "3+",
+      "license": "owned",
+      "tags": [
+        "carro",
+        "veiculo",
+        "fofo",
+        "online"
+      ]
+    }
+  ]
+}
