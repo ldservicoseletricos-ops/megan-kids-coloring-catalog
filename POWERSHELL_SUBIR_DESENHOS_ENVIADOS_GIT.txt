@@ -1,0 +1,17 @@
+cd C:\megan_kid
+
+# Extraia este ZIP para:
+# C:\megan_kid\megan_kids_catalogo_online_com_desenhos_enviados
+
+cd C:\megan_kid\megan-kids-coloring-catalog
+
+copy C:\megan_kid\megan_kids_catalogo_online_com_desenhos_enviados\github_pages\catalog.json .\catalog.json -Force
+
+xcopy C:\megan_kid\megan_kids_catalogo_online_com_desenhos_enviados\github_pages\coloring .\coloring /E /I /Y
+
+git status
+git add .
+git commit -m "adicionar desenhos enviados ao catalogo online"
+git push
+
+explorer C:\megan_kid\megan-kids-coloring-catalog

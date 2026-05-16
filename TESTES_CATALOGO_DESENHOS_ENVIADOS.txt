@@ -1,0 +1,18 @@
+TESTES
+
+1. Depois do git push, abrir:
+https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/catalog.json
+
+2. Abrir alguns imageUrl do catalog.json no navegador.
+
+3. No app:
+- Artista das Cores
+- Colorir
+- ícone da nuvem
+- Desenhos Online
+- Baixar um desenho
+- Voltar para Biblioteca de Colorir
+- Confirmar que o desenho baixado aparece
+- Testar o balde
+
+Total organizado: 117 desenhos.
