@@ -1,27 +1,17 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "app": "Megan Kids Aprender",
-  "description": "Catálogo seguro de histórias aprovadas para crianças.",
+  "description": "Catálogo seguro de eBooks ilustrados aprovados para crianças.",
   "items": [
     {
-      "id": "online_princesa_jardim_001",
-      "title": "A Princesa do Jardim",
-      "subtitle": "Gentileza, cuidado e amizade.",
-      "emoji": "🌸",
-      "category": "friendship",
-      "ageRange": "4+",
+      "id": "ebook_tres_porquinhos_001",
+      "title": "Os Três Porquinhos",
+      "subtitle": "eBook ilustrado com páginas coloridas.",
+      "emoji": "🐷",
+      "category": "classics",
+      "ageRange": "3+",
       "license": "approved",
-      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/princesa_jardim.json"
-    },
-    {
-      "id": "online_dragao_bondoso_001",
-      "title": "O Dragão Bondoso",
-      "subtitle": "Uma aventura sobre coragem e respeito.",
-      "emoji": "🐉",
-      "category": "courage",
-      "ageRange": "5+",
-      "license": "approved",
-      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/dragao_bondoso.json"
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/story.json"
     }
   ]
 }
