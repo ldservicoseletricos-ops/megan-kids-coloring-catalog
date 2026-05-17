@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "app": "Megan Kids Aprender",
-  "description": "Catálogo seguro de eBooks ilustrados aprovados para crianças.",
+  "description": "Biblioteca premium segura de eBooks ilustrados aprovados para crianças.",
   "items": [
     {
       "id": "tres_porquinhos",
@@ -11,7 +11,15 @@
       "category": "classics",
       "ageRange": "3+",
       "license": "approved",
-      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/story.json"
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/story.json",
+      "tags": [
+        "clássico",
+        "animais",
+        "coragem",
+        "capricho",
+        "offline"
+      ],
+      "isNew": true
     }
   ]
 }
