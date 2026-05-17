@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "app": "Megan Kids Aprender",
+  "description": "Catálogo seguro de histórias aprovadas para crianças.",
+  "items": [
+    {
+      "id": "online_princesa_jardim_001",
+      "title": "A Princesa do Jardim",
+      "subtitle": "Gentileza, cuidado e amizade.",
+      "emoji": "🌸",
+      "category": "friendship",
+      "ageRange": "4+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/princesa_jardim.json"
+    },
+    {
+      "id": "online_dragao_bondoso_001",
+      "title": "O Dragão Bondoso",
+      "subtitle": "Uma aventura sobre coragem e respeito.",
+      "emoji": "🐉",
+      "category": "courage",
+      "ageRange": "5+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/dragao_bondoso.json"
+    }
+  ]
+}
