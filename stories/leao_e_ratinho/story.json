@@ -1,0 +1,91 @@
+{
+  "id": "leao_e_ratinho",
+  "title": "O Leão e o Ratinho",
+  "subtitle": "Uma historinha ilustrada sobre amizade, gratidão e bondade.",
+  "emoji": "🦁",
+  "category": "friendship",
+  "ageRange": "4+",
+  "moral": "Nunca subestime ninguém. Toda bondade pode voltar em forma de ajuda.",
+  "tags": [
+    "fábula",
+    "amizade",
+    "gratidão",
+    "animais",
+    "bondade",
+    "offline",
+    "premium"
+  ],
+  "pages": [
+    {
+      "title": "O Leão e o Ratinho",
+      "text": "Uma historinha ilustrada sobre amizade e bondade.",
+      "emoji": "🦁",
+      "backgroundColor": "#FFF4D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/leao_e_ratinho/page_01.png"
+    },
+    {
+      "title": "Um encontro inesperado",
+      "text": "Certo dia, um pequeno ratinho passou correndo pela floresta. Sem querer, ele acordou o leão, que ficou muito assustado.",
+      "emoji": "🐭",
+      "backgroundColor": "#FFF4D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/leao_e_ratinho/page_02.png"
+    },
+    {
+      "title": "Um pedido gentil",
+      "text": "O ratinho tremia, mas pediu com carinho: por favor, me solte! Um dia eu posso ajudar você. O leão sorriu e decidiu libertá-lo.",
+      "emoji": "🙏",
+      "backgroundColor": "#FFF4D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/leao_e_ratinho/page_03.png"
+    },
+    {
+      "title": "O leão em perigo",
+      "text": "Algum tempo depois, o leão caiu em uma grande rede. Ele rugiu pedindo ajuda, sem saber como sair dali.",
+      "emoji": "🪢",
+      "backgroundColor": "#FFF4D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/leao_e_ratinho/page_04.png"
+    },
+    {
+      "title": "Uma ajuda valiosa",
+      "text": "Ao ouvir o rugido, o ratinho correu até o amigo. Com seus dentinhos afiados, roeu a rede até libertar o leão.",
+      "emoji": "✨",
+      "backgroundColor": "#FFF4D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/leao_e_ratinho/page_05.png"
+    },
+    {
+      "title": "Uma grande amizade",
+      "text": "O leão agradeceu com carinho e percebeu uma grande lição: até o menor dos amigos pode fazer a diferença. E assim nasceu uma linda amizade.",
+      "emoji": "💛",
+      "backgroundColor": "#FFF4D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/leao_e_ratinho/page_06.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Quem acordou o leão?",
+      "options": [
+        "O ratinho",
+        "A tartaruga",
+        "O pato"
+      ],
+      "answer": "O ratinho"
+    },
+    {
+      "question": "O que o ratinho fez para ajudar?",
+      "options": [
+        "Roer a rede",
+        "Buscar água",
+        "Construir uma casa"
+      ],
+      "answer": "Roer a rede"
+    },
+    {
+      "question": "Qual é a moral da história?",
+      "options": [
+        "Toda bondade pode voltar",
+        "Correr sempre ganha",
+        "Dormir é perigoso"
+      ],
+      "answer": "Toda bondade pode voltar"
+    }
+  ]
+}
