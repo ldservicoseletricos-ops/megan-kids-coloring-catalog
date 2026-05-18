@@ -1,0 +1,76 @@
+{
+  "id": "cigarra_e_formiga",
+  "title": "A Cigarra e a Formiga",
+  "subtitle": "Uma historinha ilustrada sobre alegria, trabalho e preparação.",
+  "emoji": "🐜",
+  "category": "fables",
+  "ageRange": "4+",
+  "moral": "Trabalhar hoje ajuda a viver melhor amanhã.",
+  "tags": [
+    "fábula",
+    "trabalho",
+    "preparação",
+    "amizade",
+    "sabedoria",
+    "offline",
+    "premium"
+  ],
+  "pages": [
+    {
+      "title": "A Cigarra e a Formiga",
+      "text": "Uma historinha ilustrada.",
+      "emoji": "🎵",
+      "backgroundColor": "#FFF4D8",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/cigarra_e_formiga/page_01.png"
+    },
+    {
+      "title": "O verão feliz",
+      "text": "No verão ensolarado, a cigarra cantava alegremente enquanto a formiga trabalhava sem parar. Ela juntava folhas e grãos para os dias frios.",
+      "emoji": "☀️",
+      "backgroundColor": "#FFF4D8",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/cigarra_e_formiga/page_02.png"
+    },
+    {
+      "title": "Tempo de guardar",
+      "text": "A formiga seguia firme, guardando comida com cuidado dentro da sua casinha. A cigarra dizia que depois pensaria nisso.",
+      "emoji": "🏡",
+      "backgroundColor": "#FFF4D8",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/cigarra_e_formiga/page_03.png"
+    },
+    {
+      "title": "Chegou o inverno",
+      "text": "Quando o inverno chegou, o vento ficou gelado e a comida começou a faltar. A cigarra sentiu frio e ficou muito preocupada.",
+      "emoji": "❄️",
+      "backgroundColor": "#EEF5FF",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/cigarra_e_formiga/page_04.png"
+    },
+    {
+      "title": "Um pedido",
+      "text": "Com humildade, a cigarra bateu à porta da casa da formiga e pediu ajuda. A formiga ouviu com atenção e pensou no que fazer.",
+      "emoji": "🙏",
+      "backgroundColor": "#FFF4D8",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/cigarra_e_formiga/page_05.png"
+    },
+    {
+      "title": "Uma grande lição",
+      "text": "A formiga ajudou a cigarra, e ela aprendeu que cantar é bonito, mas se preparar também é importante. Desde então, as duas viveram com mais sabedoria.",
+      "emoji": "🌻",
+      "backgroundColor": "#FFF4D8",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/cigarra_e_formiga/page_06.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "O que a formiga fazia no verão?",
+      "answer": "Ela guardava comida para os dias frios."
+    },
+    {
+      "question": "O que a cigarra aprendeu?",
+      "answer": "Que alegria é importante, mas preparação também é necessária."
+    },
+    {
+      "question": "Qual é a moral da história?",
+      "answer": "Trabalhar hoje ajuda a viver melhor amanhã."
+    }
+  ]
+}
