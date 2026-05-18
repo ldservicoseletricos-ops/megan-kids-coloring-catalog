@@ -1,0 +1,90 @@
+{
+  "id": "chapeuzinho_vermelho",
+  "title": "Chapeuzinho Vermelho",
+  "subtitle": "Uma historinha ilustrada sobre cuidado, obediência e boas escolhas.",
+  "emoji": "🧺",
+  "category": "classics",
+  "ageRange": "3 a 7 anos",
+  "moral": "Ouça os conselhos da sua família, não converse com estranhos e faça boas escolhas.",
+  "tags": [
+    "clássico",
+    "família",
+    "cuidado",
+    "obediência",
+    "coragem",
+    "offline"
+  ],
+  "pages": [
+    {
+      "title": "Chapeuzinho Vermelho",
+      "text": "Uma historinha ilustrada para crianças, com aventura, cuidado e uma lição especial.",
+      "emoji": "🧺",
+      "backgroundColor": "#FFF4D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/chapeuzinho_vermelho/page_01.png"
+    },
+    {
+      "title": "Era uma vez...",
+      "text": "Chapeuzinho Vermelho era uma menina alegre e gentil. Ela morava perto da floresta e adorava ajudar sua família.",
+      "emoji": "🌸",
+      "backgroundColor": "#FFF3CB",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/chapeuzinho_vermelho/page_02.png"
+    },
+    {
+      "title": "A visita à vovó",
+      "text": "Um dia, sua mãe pediu que ela levasse uma cesta de comidinhas para a vovó, que morava do outro lado da floresta.",
+      "emoji": "🏡",
+      "backgroundColor": "#FFF0D5",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/chapeuzinho_vermelho/page_03.png"
+    },
+    {
+      "title": "O encontro com o lobo",
+      "text": "No caminho, Chapeuzinho encontrou o Lobo Mau. Sem perceber o perigo, ela contou para onde estava indo.",
+      "emoji": "🐺",
+      "backgroundColor": "#E9FBD4",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/chapeuzinho_vermelho/page_04.png"
+    },
+    {
+      "title": "O plano do lobo",
+      "text": "O lobo correu até a casa da vovó e tentou enganar Chapeuzinho. Mas a esperteza e o cuidado ajudam a vencer problemas.",
+      "emoji": "🚪",
+      "backgroundColor": "#FFF4CF",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/chapeuzinho_vermelho/page_05.png"
+    },
+    {
+      "title": "O final feliz",
+      "text": "Um caçador ouviu os gritos e ajudou a salvar a vovó. Chapeuzinho aprendeu a ter cuidado e todos ficaram felizes.",
+      "emoji": "💛",
+      "backgroundColor": "#EAFFD4",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/chapeuzinho_vermelho/page_06.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "O que Chapeuzinho levou para a vovó?",
+      "options": [
+        "Uma cesta de comidinhas",
+        "Um brinquedo",
+        "Um livro de escola"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Qual conselho a mãe deu para Chapeuzinho?",
+      "options": [
+        "Não falar com estranhos",
+        "Correr pela floresta",
+        "Esquecer a cesta"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Qual é a principal lição da história?",
+      "options": [
+        "Ouvir bons conselhos e ter cuidado",
+        "Nunca ajudar a família",
+        "Dormir na floresta"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

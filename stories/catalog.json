@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.4",
   "app": "Megan Kids Aprender",
-  "description": "Biblioteca premium segura de eBooks ilustrados aprovados para crianças.",
+  "description": "Biblioteca premium segura de eBooks ilustrados aprovados para crianças, com download offline.",
   "items": [
     {
       "id": "tres_porquinhos",
@@ -17,6 +17,80 @@
         "animais",
         "coragem",
         "capricho",
+        "offline"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "chapeuzinho_vermelho",
+      "title": "Chapeuzinho Vermelho",
+      "subtitle": "eBook ilustrado premium no estilo infantil colorido.",
+      "emoji": "🧺",
+      "category": "classics",
+      "ageRange": "3+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/chapeuzinho_vermelho/story.json",
+      "tags": [
+        "clássico",
+        "família",
+        "cuidado",
+        "obediência",
+        "offline"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "patinho_feio",
+      "title": "O Patinho Feio",
+      "subtitle": "eBook ilustrado premium no mesmo estilo do Chapeuzinho Vermelho.",
+      "emoji": "🦆",
+      "category": "classics",
+      "ageRange": "3+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/patinho_feio/story.json",
+      "tags": [
+        "clássico",
+        "patinho",
+        "autoestima",
+        "respeito",
+        "diferenças",
+        "offline",
+        "premium"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "lebre_e_tartaruga",
+      "title": "A Lebre e a Tartaruga",
+      "subtitle": "Uma corrida sobre calma e persistência.",
+      "emoji": "🐢",
+      "category": "fables",
+      "ageRange": "4+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/lebre_e_tartaruga/story.json",
+      "tags": [
+        "fábula",
+        "persistência",
+        "calma",
+        "corrida",
+        "offline"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "leao_e_ratinho",
+      "title": "O Leão e o Ratinho",
+      "subtitle": "Uma fábula sobre gratidão e amizade.",
+      "emoji": "🦁",
+      "category": "friendship",
+      "ageRange": "4+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/leao_e_ratinho/story.json",
+      "tags": [
+        "fábula",
+        "amizade",
+        "gratidão",
+        "animais",
         "offline"
       ],
       "isNew": true

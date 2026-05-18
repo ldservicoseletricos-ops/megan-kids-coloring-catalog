@@ -1,0 +1,81 @@
+{
+  "id": "patinho_feio",
+  "title": "O Patinho Feio",
+  "subtitle": "Uma historinha ilustrada sobre autoestima, respeito e transformação.",
+  "emoji": "🦆",
+  "category": "classics",
+  "ageRange": "3 a 7 anos",
+  "moral": "O verdadeiro valor está em ser você mesmo.",
+  "tags": [
+    "clássico",
+    "patinho",
+    "autoestima",
+    "respeito",
+    "diferenças",
+    "amizade",
+    "premium",
+    "offline"
+  ],
+  "pages": [
+    {
+      "title": "O Patinho Feio",
+      "text": "Uma historinha ilustrada sobre um patinho especial que descobre seu verdadeiro valor.",
+      "emoji": "🦆",
+      "backgroundColor": "#FFF4CF",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/patinho_feio/page_01.png"
+    },
+    {
+      "title": "Era uma vez...",
+      "text": "Em uma lagoa bem bonita, nasceu um patinho diferente dos seus irmãos. Enquanto os outros eram amarelinhos, ele tinha penas cinzentas e fofinhas. Mesmo assim, ele sonhava em ser amado e feliz.",
+      "emoji": "🌼",
+      "backgroundColor": "#FFF1C7",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/patinho_feio/page_02.png"
+    },
+    {
+      "title": "Muito sozinho",
+      "text": "Alguns animais riam dele e diziam que ele era feio. O patinho ficou triste e pensou que nunca teria amigos. Seu coração ficou apertado, mas ele continuou seguindo em frente.",
+      "emoji": "💛",
+      "backgroundColor": "#FFEFC2",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/patinho_feio/page_03.png"
+    },
+    {
+      "title": "Uma nova jornada",
+      "text": "Então o patinho decidiu procurar um lugar onde pudesse ser aceito. Ele caminhou por campos, lagoas e jardins, sempre com esperança no coração. Mesmo cansado, não desistiu de encontrar seu lugar.",
+      "emoji": "🌿",
+      "backgroundColor": "#FFF0C8",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/patinho_feio/page_04.png"
+    },
+    {
+      "title": "Uma grande surpresa",
+      "text": "Um dia, ao olhar para a água, o patinho viu seu reflexo e percebeu algo incrível. Ele tinha crescido e se transformado em um lindo cisne branco. Finalmente, entendeu que sempre foi especial.",
+      "emoji": "✨",
+      "backgroundColor": "#FFEBC0",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/patinho_feio/page_05.png"
+    },
+    {
+      "title": "Um final feliz",
+      "text": "Agora, o antigo patinho feio nadava feliz entre os cisnes. Ele descobriu que cada ser tem seu próprio tempo para florescer. E viveu alegre, orgulhoso de quem era.",
+      "emoji": "🦢",
+      "backgroundColor": "#FFF3CD",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/patinho_feio/page_06.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Por que o patinho se sentia diferente?",
+      "answer": "Porque ele era cinzento e não se parecia com os outros patinhos."
+    },
+    {
+      "question": "O que o patinho fez quando ficou triste?",
+      "answer": "Ele continuou sua jornada com esperança no coração."
+    },
+    {
+      "question": "O que o patinho descobriu no final?",
+      "answer": "Ele descobriu que era um lindo cisne e que sempre foi especial."
+    },
+    {
+      "question": "Qual é a moral da história?",
+      "answer": "O verdadeiro valor está em ser você mesmo."
+    }
+  ]
+}

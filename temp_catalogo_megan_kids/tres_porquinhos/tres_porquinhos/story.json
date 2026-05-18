@@ -1,0 +1,82 @@
+{
+  "id": "tres_porquinhos",
+  "title": "Os Três Porquinhos",
+  "subtitle": "eBook ilustrado com páginas coloridas.",
+  "emoji": "🐷",
+  "category": "classics",
+  "ageRange": "3+",
+  "moral": "Capricho e paciência fazem toda a diferença.",
+  "pages": [
+    {
+      "title": "Os Três Porquinhos",
+      "text": "Uma historinha ilustrada para aprender que fazer com carinho, calma e capricho deixa tudo mais seguro.",
+      "emoji": "🐷",
+      "backgroundColor": "#FFF3CD",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/page_01_cover.png"
+    },
+    {
+      "title": "Era uma vez...",
+      "text": "Três porquinhos saíram de casa para construir seus próprios lares. Cada um escolheu um jeito diferente de trabalhar.",
+      "emoji": "🌳",
+      "backgroundColor": "#E0F2F1",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/page_02_era_uma_vez.png"
+    },
+    {
+      "title": "A casa de palha",
+      "text": "O primeiro porquinho fez uma casa de palha bem rapidinho. Ele queria brincar logo!",
+      "emoji": "🌾",
+      "backgroundColor": "#FFF8E7",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/page_03_casa_palha.png"
+    },
+    {
+      "title": "A casa de madeira",
+      "text": "O segundo porquinho construiu uma casinha de madeira. Ela ficou melhor, mas ainda não era muito forte.",
+      "emoji": "🪵",
+      "backgroundColor": "#FFE0B2",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/page_04_casa_madeira.png"
+    },
+    {
+      "title": "A casa de tijolos",
+      "text": "O terceiro porquinho trabalhou com calma e capricho. Sua casa de tijolos ficou firme e segura.",
+      "emoji": "🧱",
+      "backgroundColor": "#E9DFFF",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/page_05_casa_tijolos.png"
+    },
+    {
+      "title": "O lobo soprou",
+      "text": "O lobo soprou a palha, soprou a madeira, mas não conseguiu derrubar a casa de tijolos. No fim, os porquinhos aprenderam que esforço e paciência fazem toda a diferença.",
+      "emoji": "🐺",
+      "backgroundColor": "#E0F7FA",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tres_porquinhos/page_06_lobo_soprou.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Qual casa ficou mais forte?",
+      "options": [
+        "A casa de palha",
+        "A casa de madeira",
+        "A casa de tijolos"
+      ],
+      "correctIndex": 2,
+      "encouragement": "Muito bem! A casa de tijolos era mais forte."
+    },
+    {
+      "question": "O que a história ensina?",
+      "options": [
+        "Fazer tudo correndo",
+        "Fazer com capricho e paciência",
+        "Não ajudar ninguém"
+      ],
+      "correctIndex": 1,
+      "encouragement": "Isso mesmo! Capricho e paciência fazem diferença."
+    }
+  ],
+  "tags": [
+    "clássico",
+    "animais",
+    "coragem",
+    "capricho",
+    "offline"
+  ]
+}
