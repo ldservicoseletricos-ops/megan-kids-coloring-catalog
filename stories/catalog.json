@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.3.9",
   "app": "Megan Kids Aprender",
   "description": "Biblioteca premium segura de eBooks ilustrados aprovados para crianças, com download offline.",
   "items": [
@@ -130,6 +130,46 @@
         "prudência",
         "união",
         "doces",
+        "offline",
+        "premium"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "branca_de_neve",
+      "title": "Branca de Neve",
+      "subtitle": "eBook ilustrado premium no padrão visual do Patinho Feio.",
+      "emoji": "🍎",
+      "category": "classics",
+      "ageRange": "3+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/branca_de_neve/story.json",
+      "tags": [
+        "clássico",
+        "amizade",
+        "bondade",
+        "cuidado",
+        "floresta",
+        "offline",
+        "premium"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "estrelinha_corajosa",
+      "title": "A Estrelinha Corajosa",
+      "subtitle": "eBook original premium refeito no padrão visual do Patinho Feio.",
+      "emoji": "⭐",
+      "category": "values",
+      "ageRange": "3+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/estrelinha_corajosa/story.json",
+      "tags": [
+        "original",
+        "coragem",
+        "brilho próprio",
+        "autoestima",
+        "gentileza",
         "offline",
         "premium"
       ],

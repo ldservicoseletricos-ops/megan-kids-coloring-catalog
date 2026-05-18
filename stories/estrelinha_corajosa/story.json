@@ -1,0 +1,91 @@
+{
+  "id": "estrelinha_corajosa",
+  "title": "A Estrelinha Corajosa",
+  "subtitle": "Uma história sobre coragem e brilho próprio.",
+  "emoji": "⭐",
+  "category": "values",
+  "ageRange": "3+",
+  "moral": "Todos temos uma luz especial para compartilhar.",
+  "tags": [
+    "original",
+    "coragem",
+    "brilho próprio",
+    "autoestima",
+    "gentileza",
+    "offline",
+    "premium"
+  ],
+  "pages": [
+    {
+      "title": "A Estrelinha Corajosa",
+      "text": "No céu brilhante, uma estrelinha pequena sonhava mostrar sua luz para o mundo.",
+      "emoji": "⭐",
+      "backgroundColor": "#FFF7D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/estrelinha_corajosa/page_01.png"
+    },
+    {
+      "title": "No alto do céu",
+      "text": "Bem no alto do céu, ela morava entre nuvens fofinhas, estrelas amigas e uma lua carinhosa.",
+      "emoji": "🌙",
+      "backgroundColor": "#FFF7D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/estrelinha_corajosa/page_02.png"
+    },
+    {
+      "title": "Um medo escondido",
+      "text": "Quando chegava a hora de brilhar, a estrelinha sentia medo e achava sua luz fraquinha demais.",
+      "emoji": "⭐",
+      "backgroundColor": "#FFF7D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/estrelinha_corajosa/page_03.png"
+    },
+    {
+      "title": "Um conselho gentil",
+      "text": "A Lua sorriu e disse que a coragem começa com um pequeno passo dado com amor.",
+      "emoji": "🌙",
+      "backgroundColor": "#FFF7D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/estrelinha_corajosa/page_04.png"
+    },
+    {
+      "title": "A primeira luz",
+      "text": "A estrelinha respirou fundo, brilhou do seu jeitinho e iluminou o caminho de um passarinho.",
+      "emoji": "✨",
+      "backgroundColor": "#FFF7D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/estrelinha_corajosa/page_05.png"
+    },
+    {
+      "title": "Brilho de coragem",
+      "text": "Naquela noite, ela descobriu que acreditar em si mesma fazia seu brilho encantar todo o céu.",
+      "emoji": "⭐",
+      "backgroundColor": "#FFF7D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/estrelinha_corajosa/page_06.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Por que a estrelinha sentia medo?",
+      "options": [
+        "Porque achava sua luz pequena",
+        "Porque não gostava da Lua",
+        "Porque queria dormir o dia inteiro"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Quem deu um conselho para a estrelinha?",
+      "options": [
+        "A Lua",
+        "Um peixe",
+        "Uma árvore"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "O que a história ensina?",
+      "options": [
+        "Todos temos uma luz especial",
+        "Ninguém deve ajudar",
+        "É melhor esconder os sonhos"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
