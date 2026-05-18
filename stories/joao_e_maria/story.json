@@ -1,0 +1,92 @@
+{
+  "id": "joao_e_maria",
+  "title": "João e Maria",
+  "subtitle": "Uma historinha ilustrada sobre união, coragem e cuidado.",
+  "emoji": "🍭",
+  "category": "classics",
+  "ageRange": "4+",
+  "moral": "Com amor, coragem e união, tudo pode terminar bem.",
+  "tags": [
+    "clássico",
+    "família",
+    "coragem",
+    "prudência",
+    "união",
+    "doces",
+    "offline",
+    "premium"
+  ],
+  "pages": [
+    {
+      "title": "João e Maria",
+      "text": "João e Maria caminham juntos pela floresta e descobrem que a união deixa qualquer aventura mais segura.",
+      "emoji": "🌳",
+      "backgroundColor": "#FFF4D1",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/joao_e_maria/page_01.png"
+    },
+    {
+      "title": "Era uma vez...",
+      "text": "João e Maria moravam com o pai perto de uma floresta. Eles eram irmãos unidos, curiosos e muito corajosos.",
+      "emoji": "🏡",
+      "backgroundColor": "#FFF4D1",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/joao_e_maria/page_02.png"
+    },
+    {
+      "title": "Na floresta",
+      "text": "Certo dia, os dois entraram na floresta e, sem perceber, se afastaram do caminho de casa. Mesmo assustados, seguiram lado a lado.",
+      "emoji": "🌲",
+      "backgroundColor": "#FFF4D1",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/joao_e_maria/page_03.png"
+    },
+    {
+      "title": "Casa de doces",
+      "text": "Depois de andar bastante, João e Maria encontraram uma casinha feita de doces. Ela parecia linda e deliciosa, mas também guardava um grande segredo.",
+      "emoji": "🍬",
+      "backgroundColor": "#FFF4D1",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/joao_e_maria/page_04.png"
+    },
+    {
+      "title": "Muito espertos",
+      "text": "Lá dentro, apareceu uma bruxa malvada. João e Maria usaram a inteligência e a coragem para fugir e se proteger.",
+      "emoji": "🧠",
+      "backgroundColor": "#FFF4D1",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/joao_e_maria/page_05.png"
+    },
+    {
+      "title": "Final feliz",
+      "text": "No fim, os irmãos conseguiram voltar para casa em segurança. Eles aprenderam a ser ainda mais cuidadosos e nunca esqueceram essa aventura.",
+      "emoji": "❤️",
+      "backgroundColor": "#FFF4D1",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/joao_e_maria/page_06.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Por que João e Maria precisaram ficar juntos?",
+      "options": [
+        "Para se ajudarem",
+        "Para correrem mais",
+        "Para brincar sem parar"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "O que João e Maria encontraram na floresta?",
+      "options": [
+        "Uma casa de doces",
+        "Um castelo de gelo",
+        "Um barco no rio"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Qual é a grande lição da história?",
+      "options": [
+        "União, coragem e cuidado ajudam nos desafios",
+        "Desistir é melhor",
+        "Nunca pedir ajuda"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}
