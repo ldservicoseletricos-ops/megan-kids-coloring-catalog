@@ -1,5 +1,5 @@
 {
-  "version": "1.3.4",
+  "version": "1.3.5",
   "app": "Megan Kids Aprender",
   "description": "Biblioteca premium segura de eBooks ilustrados aprovados para crianças, com download offline.",
   "items": [
@@ -24,7 +24,7 @@
     {
       "id": "chapeuzinho_vermelho",
       "title": "Chapeuzinho Vermelho",
-      "subtitle": "eBook ilustrado premium no estilo infantil colorido.",
+      "subtitle": "eBook ilustrado premium refeito no estilo aprovado, com uma área de texto por página.",
       "emoji": "🧺",
       "category": "classics",
       "ageRange": "3+",
@@ -35,6 +35,7 @@
         "família",
         "cuidado",
         "obediência",
+        "premium",
         "offline"
       ],
       "isNew": true

@@ -12,6 +12,7 @@
     "cuidado",
     "obediência",
     "coragem",
+    "premium",
     "offline"
   ],
   "pages": [
@@ -69,11 +70,11 @@
       "answerIndex": 0
     },
     {
-      "question": "Qual conselho a mãe deu para Chapeuzinho?",
+      "question": "Quem Chapeuzinho encontrou no caminho?",
       "options": [
-        "Não falar com estranhos",
-        "Correr pela floresta",
-        "Esquecer a cesta"
+        "O Lobo Mau",
+        "Um peixinho",
+        "Uma fada"
       ],
       "answerIndex": 0
     },
