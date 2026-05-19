@@ -1,0 +1,92 @@
+{
+  "id": "coelhinho_compartilhar",
+  "title": "O Coelhinho Generoso",
+  "subtitle": "Uma historinha ilustrada sobre amizade, bondade e compartilhar.",
+  "emoji": "🐰",
+  "category": "friendship",
+  "ageRange": "3+",
+  "moral": "Um coração generoso espalha amor por onde passa.",
+  "tags": [
+    "original",
+    "amizade",
+    "generosidade",
+    "compartilhar",
+    "coelhinho",
+    "offline",
+    "premium",
+    "padrao_patinho_feio"
+  ],
+  "pages": [
+    {
+      "title": "O Coelhinho Generoso",
+      "text": "Uma historinha ilustrada",
+      "emoji": "🐰",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/coelhinho_compartilhar/page_01.png"
+    },
+    {
+      "title": "Um amigo gentil",
+      "text": "No Jardim da Amizade vivia um coelhinho muito bondoso. Ele gostava de colher cenouras fresquinhas e dividir tudo com alegria. Seu coração ficava feliz quando podia ajudar alguém.",
+      "emoji": "🥕",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/coelhinho_compartilhar/page_02.png"
+    },
+    {
+      "title": "Hora de ajudar",
+      "text": "Certo dia, o esquilinho e o passarinho ficaram sem comida depois de uma chuva forte. O coelhinho percebeu a tristeza dos amigos e logo pensou em uma forma carinhosa de ajudar.",
+      "emoji": "🤝",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/coelhinho_compartilhar/page_03.png"
+    },
+    {
+      "title": "Partilha feliz",
+      "text": "Com um sorriso no rosto, ele dividiu suas cenouras e ainda ensinou os amigos a plantar novas mudinhas. Enquanto trabalhavam juntos, o jardim ficou ainda mais bonito e cheio de esperança.",
+      "emoji": "🌱",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/coelhinho_compartilhar/page_04.png"
+    },
+    {
+      "title": "Surpresa bonita",
+      "text": "Dias depois, os amigos decidiram agradecer. O passarinho trouxe sementes, o esquilinho ajudou a regar os canteiros, e logo o Jardim da Amizade ficou florido, colorido e cheio de vida.",
+      "emoji": "🌸",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/coelhinho_compartilhar/page_05.png"
+    },
+    {
+      "title": "Coração contente",
+      "text": "Naquela tarde especial, todos fizeram um piquenique e celebraram o quanto era bom cuidar uns dos outros. O coelhinho aprendeu que um gesto generoso pode transformar o dia de muitas pessoas.",
+      "emoji": "💛",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/coelhinho_compartilhar/page_06.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "O que o coelhinho gostava de dividir?",
+      "options": [
+        "Cenouras",
+        "Pedras",
+        "Sapatos"
+      ],
+      "answer": "Cenouras"
+    },
+    {
+      "question": "Quem precisava de ajuda depois da chuva?",
+      "options": [
+        "Os amigos",
+        "Uma estrela",
+        "Um barco"
+      ],
+      "answer": "Os amigos"
+    },
+    {
+      "question": "Qual é a moral da história?",
+      "options": [
+        "Compartilhar espalha amor",
+        "Guardar tudo sozinho é melhor",
+        "Nunca ajudar ninguém"
+      ],
+      "answer": "Compartilhar espalha amor"
+    }
+  ]
+}

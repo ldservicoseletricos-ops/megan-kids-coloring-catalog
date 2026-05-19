@@ -1,5 +1,5 @@
 {
-  "version": "1.3.9",
+  "version": "1.4.1",
   "app": "Megan Kids Aprender",
   "description": "Biblioteca premium segura de eBooks ilustrados aprovados para crianças, com download offline.",
   "items": [
@@ -170,6 +170,26 @@
         "brilho próprio",
         "autoestima",
         "gentileza",
+        "offline",
+        "premium"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "coelhinho_compartilhar",
+      "title": "O Coelhinho Generoso",
+      "subtitle": "eBook original refeito no padrão visual oficial do Patinho Feio.",
+      "emoji": "🐰",
+      "category": "friendship",
+      "ageRange": "3+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/coelhinho_compartilhar/story.json",
+      "tags": [
+        "original",
+        "amizade",
+        "generosidade",
+        "compartilhar",
+        "coelhinho",
         "offline",
         "premium"
       ],
