@@ -1,0 +1,93 @@
+{
+  "id": "tartaruguinha_persistente",
+  "title": "A Tartaruguinha Persistente",
+  "subtitle": "Uma historinha ilustrada sobre calma, coragem e persistência.",
+  "emoji": "🐢",
+  "category": "values",
+  "ageRange": "3+",
+  "moral": "Devagar e com coragem, você pode conquistar grandes sonhos.",
+  "tags": [
+    "original",
+    "persistência",
+    "coragem",
+    "calma",
+    "tartaruguinha",
+    "superação",
+    "offline",
+    "premium",
+    "padrao_patinho_feio"
+  ],
+  "pages": [
+    {
+      "title": "A Tartaruguinha Persistente",
+      "text": "Uma historinha ilustrada",
+      "emoji": "🐢",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tartaruguinha_persistente/page_01.png"
+    },
+    {
+      "title": "Passos Calmos",
+      "text": "Tina era uma tartaruguinha muito gentil. Enquanto os outros corriam, ela seguia devagar, observando cada flor do caminho.",
+      "emoji": "🌼",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tartaruguinha_persistente/page_02.png"
+    },
+    {
+      "title": "O Grande Morro",
+      "text": "Um dia, Tina viu um morro bem alto. Muitos acharam que ela não conseguiria subir, mas Tina acreditou em si mesma.",
+      "emoji": "⛰️",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tartaruguinha_persistente/page_03.png"
+    },
+    {
+      "title": "Sem Desistir",
+      "text": "Ela subiu um passo de cada vez. Mesmo quando ficou cansada, respirou fundo e continuou com coragem.",
+      "emoji": "💪",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tartaruguinha_persistente/page_04.png"
+    },
+    {
+      "title": "Quase Lá",
+      "text": "Depois de muito esforço, Tina avistou o topo. Seu coração ficou cheio de alegria e esperança.",
+      "emoji": "☀️",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tartaruguinha_persistente/page_05.png"
+    },
+    {
+      "title": "A Vitória de Tina",
+      "text": "Tina chegou ao alto do morro e sorriu. Ela aprendeu que quem persiste consegue ir longe.",
+      "emoji": "🏆",
+      "backgroundColor": "#FFF3D6",
+      "imageUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tartaruguinha_persistente/page_06.png"
+    }
+  ],
+  "questions": [
+    {
+      "question": "Como Tina caminhava?",
+      "options": [
+        "Com passos calmos",
+        "Voando pelo céu",
+        "Correndo sem olhar"
+      ],
+      "answer": "Com passos calmos"
+    },
+    {
+      "question": "O que Tina queria subir?",
+      "options": [
+        "Um grande morro",
+        "Uma escada de doces",
+        "Um foguete"
+      ],
+      "answer": "Um grande morro"
+    },
+    {
+      "question": "Qual é a moral da história?",
+      "options": [
+        "Persistir ajuda a conquistar sonhos",
+        "Desistir é sempre melhor",
+        "Nunca tentar algo novo"
+      ],
+      "answer": "Persistir ajuda a conquistar sonhos"
+    }
+  ]
+}

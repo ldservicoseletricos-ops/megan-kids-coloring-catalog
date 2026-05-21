@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "app": "Megan Kids Aprender",
   "description": "Biblioteca premium segura de eBooks ilustrados aprovados para crianças, com download offline.",
   "items": [
@@ -190,6 +190,27 @@
         "generosidade",
         "compartilhar",
         "coelhinho",
+        "offline",
+        "premium"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "tartaruguinha_persistente",
+      "title": "A Tartaruguinha Persistente",
+      "subtitle": "eBook original no padrão visual oficial do Patinho Feio.",
+      "emoji": "🐢",
+      "category": "values",
+      "ageRange": "3+",
+      "license": "approved",
+      "storyUrl": "https://ldservicoseletricos-ops.github.io/megan-kids-coloring-catalog/stories/tartaruguinha_persistente/story.json",
+      "tags": [
+        "original",
+        "persistência",
+        "coragem",
+        "calma",
+        "tartaruguinha",
+        "superação",
         "offline",
         "premium"
       ],
